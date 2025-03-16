@@ -3,6 +3,15 @@
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Tanvir+Ishrak;A+developer;And+a+programmer!&center=true&size=30&color=c9d6ff">
     </a>
   </h1>
+  <h3 align="center">CP Enthusiast | Programmer | CSE student</h3>
+
+- I’m currently working on **C++ and Python**
+
+- I’m currently learning **DSA**
+
+- How to reach me **tanvirishrak2963@gmail.com**
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvir-ishrak&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir-ishrak" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvir-ishrak" alt="tanvir-ishrak" /></a> </p>
